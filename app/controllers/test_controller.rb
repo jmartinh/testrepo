@@ -1,7 +1,7 @@
 class TestController < ApplicationController
   def align
-    
-    end
+    @private_key    = OpenSSL
+  end
 
 end
 
